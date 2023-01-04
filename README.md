@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunalshokeen051
-- 👀 I’m interested in learning new technologies and building complex softwares solutions.
+- 👀 I’m interested in learning new technologies and working with people who can innovate and can think differently.
 - 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on complex web devopment projects where i can lean something new.
+- 💞️ I’m looking to collaborate with people who share same interest on their project.
 - 📫 How to reach me ... kunalshokeen051@gmail.com
 
 <!---
